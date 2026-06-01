@@ -5,3 +5,5 @@ game_id varchar(255) not null,
 game_version varchar(255) not null,
 created_at TIMESTAMPTZ NOT NULL DEFAULT now()
 );
+
+drop table deploy_request;
