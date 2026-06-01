@@ -180,3 +180,5 @@ buildNumber.properties
 .settings/
 src/main/resources/database.xml
 src/main/resources/database.xml
+
+game-deploy-manager.env
